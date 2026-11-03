@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Address>
+			<Number>2</Number>
+			<Street>Officers Row</Street>
+			<City>Mammoth</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Zion</Name>
+		<Address NearestAirport="St. George Regional Airport">
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Saguaro</Name>
+		<Name>Saguaro National Park</Name>
+		<Phone>520-733-5153</Phone>
+		<Address NearestAirport="Tucson International Airport">
+			<Number>3693</Number>
+			<Street>S Old Spanish Trail</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Address NearestAirport="Palm Springs International Airport">
+			<Number>74485</Number>
+			<Street>National Park Drive</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yosemite</Name>
+		<Phone>209-372-0200</Phone>
+		<Address NearestAirport="Fresno Yosemite International Airport">
+			<Number>9035</Number>
+			<Street>Village Dr</Street>
+			<City>Yosemite National Park</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>White Sands</Name>
+		<Phone>575-479-6124</Phone>
+		<Address NearestAirport="El Paso International Airport">
+			<Number>19955</Number>
+			<Street>Highway 70 West</Street>
+			<City>Alamogordo</City>
+			<State>NM</State>
+			<Zip>88310</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Death Valley</Name>
+		<Phone>760-786-3200</Phone>
+		<Address NearestAirport="Furnace Creek Airport">
+			<Number>328</Number>
+			<Street>Greenland Blvd</Street>
+			<City>Death Valley</City>
+			<State>CA</State>
+			<Zip>92328</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Petrified Forest</Name>
+		<Phone>928-524-6228</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>1</Number>
+			<Street>Park Rd</Street>
+			<City>Petrified Forest</City>
+			<State>AZ</State>
+			<Zip>86028</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Mesa Verde</Name>
+		<Phone>970-529-4465</Phone>
+		<Address NearestAirport="Cortez Municipal Airport">
+			<Number>34840</Number>
+			<Street>Hwy 160</Street>
+			<City>Mancos</City>
+			<State>CO</State>
+			<Zip>81328</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Badlands</Name>
+		<Phone>605-433-5361</Phone>
+		<Address NearestAirport="Rapid City Regional Airport">
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
+	</NationalPark>
+</NationalPark>
