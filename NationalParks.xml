@@ -16,6 +16,7 @@
 	<NationalPark Rating="4.8">
 		<Name>Yellowstone</Name>
 		<Phone>307-344-7381</Phone>
+		<Phone>307-344-2000</Phone>
 		<Address NearestAirport="Yellowstone Airport">
 			<Number>2</Number>
 			<Street>Officers Row</Street>
